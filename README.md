@@ -1,19 +1,12 @@
 QupZilla Web Browser
 ----------------------------------------------------------------------------------------
 
-Homepage: https://www.qupzilla.com  
+Homepage: hiss-crate.com/qupzilla/
 Blog: http://blog.qupzilla.com  
 IRC: `#qupzilla` at `irc.freenode.net`  
 
-QupZilla was renamed to Falkon and moved to KDE infrastructure
-----------------------------------------------------------------
 
-New repository is available at https://phabricator.kde.org/source/falkon/.   
+![QupZilla icon](https://s17-us2.startpage.com/cgi-bin/serveimage?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQ5NUoOIqFClJCfeJ30cgmFaMfcTIZm_96uZszjlFDPmHVUjA8I%26s&sp=eecf62147ad258a5aa1778b136588bdf&anticache=134284)
 
-![Falkon icon](https://github.com/QupZilla/qupzilla/blob/master/falkon.png?raw=true)
-
-Homepage: https://falkon.org  
-Source code: https://cgit.kde.org/falkon.git  
-Code review: https://phabricator.kde.org  
-Bugs: https://bugs.kde.org  
-Mailing list: falkon@kde.org  
+Homepage: https://hiss-crate.com/qupzilla/ 
+Source code: https://github.com/bigkitttty/qupzilla
