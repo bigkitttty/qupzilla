@@ -1,6 +1,6 @@
 ﻿; QupZilla Windows Installer NSIS Script
-; Copyright (C) 2010-2018  David Rosca <nowrep@gmail.com>
-;               2012-2018  S. Razi Alavizadeh <s.r.alavizadeh@gmail.com>
+; Copyright (C) 2019 hiss-crate info@hiss-crate.com<>
+;               
 ;
 ; For compiling this script you need following plugins:
 ; FindProcDLL_plug-in, KillProcDLL_plug-in and 'AllAssociation.nsh' needs
